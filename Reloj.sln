@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reloj", "Reloj\Reloj.csproj", "{B7C36763-800F-4AC8-B70E-465E71E3507C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7C36763-800F-4AC8-B70E-465E71E3507C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7C36763-800F-4AC8-B70E-465E71E3507C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7C36763-800F-4AC8-B70E-465E71E3507C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7C36763-800F-4AC8-B70E-465E71E3507C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36675F5A-0315-4436-A456-571F863568C8}
+	EndGlobalSection
+EndGlobal
